@@ -1,1 +1,2 @@
 This is first offer test.
+This is second line offer test.
